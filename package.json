@@ -1,0 +1,19 @@
+{
+  "name": "@cen-2-rion/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cen-2-rion/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cen-2-rion/ajs/issues"
+  },
+  "homepage": "https://github.com/Cen-2-rion/ajs#readme",
+  "description": ""
+}
